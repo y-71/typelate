@@ -2563,6 +2563,11 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
+ponicode@^0.63.2:
+  version "0.63.2"
+  resolved "https://registry.yarnpkg.com/ponicode/-/ponicode-0.63.2.tgz#a2b476b3d93a27a065ca349fd32bf3f843195f07"
+  integrity sha512-Pt0XpfSEq44ZZKkbkquk2nrac3gR+/lzSCImODoLkhW3+aHNxrGNVLX8YqESTvZcYQlfYG/iDpyZn1MSEn1Zdw==
+
 prelude-ls@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
